@@ -4161,3 +4161,32 @@ input, select, textarea {
 #banner .inner {
     transform: none !important;
 }
+/* Beige Theme */
+
+body {
+    background-color: #f5f1e6;
+    color: #3e3e3e;
+}
+
+#wrapper {
+    background-color: #f5f1e6;
+}
+
+section {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+    color: #2c2c2c;
+}
+
+a {
+    color: #8b5e3c;
+}
+
+a:hover {
+    color: #5a3e2b;
+}
